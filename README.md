@@ -9,7 +9,7 @@
 ### Teacher  Functionality Page
 ![Screenshot](https://github.com/DhirajAswani/AssetManagementSystem/blob/master/finalteacherfunction.gif)
 
-### HOD Functionality Page
+### HOD(Head Of Depeartment)/DPO(Department Purchase Officer)/CPO(College Purchase Officer) Functionality Page
 ![Screenshot](https://github.com/DhirajAswani/AssetManagementSystem/blob/master/hodfunction.gif)
 
 ### Principal Functionality Page
