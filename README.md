@@ -18,6 +18,6 @@
 ### Store Manager Functionality Page
 ![Screenshot](https://github.com/DhirajAswani/AssetManagementSystem/blob/master/storemanagerfunction.gif)
 
-### Student Login and Functionality Page
+### Admin Functionality Page
 ![Screenshot](https://github.com/DhirajAswani/AssetManagementSystem/blob/master/Admin-Functionalities.gif)
 
